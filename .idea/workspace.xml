@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6714d867-5d33-440e-badb-815a7c796487" name="Changes" comment="">
+    <list default="true" id="6714d867-5d33-440e-badb-815a7c796487" name="Changes" comment="Limpando a pasta do projeto">
+      <change afterPath="$PROJECT_DIR$/src/tasks/aula02/DesafioTemperatura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/aula01/PrimeiraClasse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DesafioTemperatura">
+    <configuration name="DesafioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.aula02.DesafioTemperatura" />
+      <module name="primeiro_projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.aula02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="primeiro_projeto" />
@@ -47,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioTemperatura" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -60,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682013197085</updated>
     </task>
+    <task id="LOCAL-00001" summary="Limpando a pasta do projeto">
+      <created>1682359260416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682359260416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +108,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Limpando a pasta do projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Limpando a pasta do projeto" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
