@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6714d867-5d33-440e-badb-815a7c796487" name="Changes" comment="Limpando a pasta do projeto">
-      <change afterPath="$PROJECT_DIR$/src/tasks/aula02/DesafioTemperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6714d867-5d33-440e-badb-815a7c796487" name="Changes" comment="Organizando o projeto">
+      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/aula01/PrimeiraClasse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASCIITECNOLOGIA-03/Meu Drive/Alura/Back-end/Java_criando_a_sua_primeira_aplicacao/primeiro_projeto&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ASCIITECNOLOGIA-03/Desktop/primeiro_projeto/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ASCIITECNOLOGIA-03/Meu Drive/Alura/Back-end/Java_criando_a_sua_primeira_aplicacao/primeiro_projeto",
+    "onboarding.tips.debug.path": "C:/Users/ASCIITECNOLOGIA-03/Desktop/primeiro_projeto/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.DesafioTemperatura">
+}]]></component>
+  <component name="RunManager" selected="Application.OutroLoop">
+    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Condicional" />
+      <module name="primeiro_projeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DesafioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tasks.aula02.DesafioTemperatura" />
       <module name="primeiro_projeto" />
@@ -53,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leitura" />
+      <module name="primeiro_projeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
+      <module name="primeiro_projeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OutroLoop" />
       <module name="primeiro_projeto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,8 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutroLoop" />
+        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.Leitura" />
+        <item itemvalue="Application.Condicional" />
         <item itemvalue="Application.DesafioTemperatura" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682359260416</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Organizando o projeto">
+      <created>1682373283664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682373283664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Limpando a pasta do projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Limpando a pasta do projeto" />
+    <MESSAGE value="Organizando o projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizando o projeto" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
