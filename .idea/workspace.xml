@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6714d867-5d33-440e-badb-815a7c796487" name="Changes" comment="Organizando o projeto">
-      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
+    <list default="true" id="6714d867-5d33-440e-badb-815a7c796487" name="Changes" comment="Lendo dados do teclado e adicionando condicionais e loops">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ASCIITECNOLOGIA-03/Meu Drive/Alura/Back-end/Java_criando_a_sua_primeira_aplicacao/primeiro_projeto",
-    "onboarding.tips.debug.path": "C:/Users/ASCIITECNOLOGIA-03/Desktop/primeiro_projeto/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASCIITECNOLOGIA-03/Meu Drive/Alura/Back-end/Java_criando_a_sua_primeira_aplicacao/primeiro_projeto&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ASCIITECNOLOGIA-03/Desktop/primeiro_projeto/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.OutroLoop">
+}</component>
+  <component name="RunManager" selected="Application.JogoAdvinhacao">
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
       <module name="primeiro_projeto" />
@@ -48,12 +45,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.aula02.DesafioTemperatura" />
+    <configuration name="JogoAdvinhacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.aula03.JogoAdvinhacao" />
       <module name="primeiro_projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.aula02.*" />
+          <option name="PATTERN" value="tasks.aula03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JogoAdvinhacao" />
         <item itemvalue="Application.OutroLoop" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Condicional" />
-        <item itemvalue="Application.DesafioTemperatura" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682373283664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lendo dados do teclado e adicionando condicionais e loops">
+      <created>1682453027394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682453027394</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,7 +148,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Limpando a pasta do projeto" />
     <MESSAGE value="Organizando o projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organizando o projeto" />
+    <MESSAGE value="Lendo dados do teclado e adicionando condicionais e loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lendo dados do teclado e adicionando condicionais e loops" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

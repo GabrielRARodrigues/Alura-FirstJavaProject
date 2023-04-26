@@ -2,9 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea/
-src/tasks
-out/production/primeiro_projeto/tasks
+.idea
+**/tasks
 primeiro_projeto.iml
 
 ### Eclipse ###
